@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="153090" started-at="2019-12-03T06:31:16Z" finished-at="2019-12-03T06:33:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="153090" started-at="2019-12-03T06:31:16Z" finished-at="2019-12-03T06:33:49Z">
+      <class name="com.testngdata.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testngdata.LoginTest@6f7fd0e6]" name="setUp" is-config="true" duration-ms="14133" started-at="2019-12-03T12:01:16Z" finished-at="2019-12-03T12:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="creartNewAccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testngdata.LoginTest@6f7fd0e6]" name="creartNewAccount" duration-ms="61403" started-at="2019-12-03T12:01:31Z" data-provider="getlogindata" finished-at="2019-12-03T12:02:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kishor]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sapkal]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.552206132E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123password]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creartNewAccount -->
+        <test-method status="PASS" signature="tesrdown()[pri:0, instance:com.testngdata.LoginTest@6f7fd0e6]" name="tesrdown" is-config="true" duration-ms="714" started-at="2019-12-03T12:02:32Z" finished-at="2019-12-03T12:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesrdown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testngdata.LoginTest@6f7fd0e6]" name="setUp" is-config="true" duration-ms="14211" started-at="2019-12-03T12:02:33Z" finished-at="2019-12-03T12:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="creartNewAccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testngdata.LoginTest@6f7fd0e6]" name="creartNewAccount" duration-ms="23221" started-at="2019-12-03T12:02:47Z" data-provider="getlogindata" finished-at="2019-12-03T12:03:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kishorsushu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sapkalhjeqs]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.552206133E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123passasewword]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Apr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creartNewAccount -->
+        <test-method status="PASS" signature="tesrdown()[pri:0, instance:com.testngdata.LoginTest@6f7fd0e6]" name="tesrdown" is-config="true" duration-ms="778" started-at="2019-12-03T12:03:10Z" finished-at="2019-12-03T12:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesrdown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testngdata.LoginTest@6f7fd0e6]" name="setUp" is-config="true" duration-ms="14185" started-at="2019-12-03T12:03:11Z" finished-at="2019-12-03T12:03:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="creartNewAccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testngdata.LoginTest@6f7fd0e6]" name="creartNewAccount" duration-ms="22983" started-at="2019-12-03T12:03:25Z" data-provider="getlogindata" finished-at="2019-12-03T12:03:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kishorhjds]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sapkalhsuy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.552206134E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hgdgdg2333]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Jun]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creartNewAccount -->
+        <test-method status="PASS" signature="tesrdown()[pri:0, instance:com.testngdata.LoginTest@6f7fd0e6]" name="tesrdown" is-config="true" duration-ms="753" started-at="2019-12-03T12:03:48Z" finished-at="2019-12-03T12:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesrdown -->
+      </class> <!-- com.testngdata.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
